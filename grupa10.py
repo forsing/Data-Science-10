@@ -454,5 +454,5 @@ Kola: 4648 | seed=39 | 7/39 | grupa10
 
 === pravilo → next (grupa 10) ===
 rule: {'last_draw': [3, 7, 12, 13, 18, 24, 29], 'target_sum': 140.43, 'modularity': -0.0074, 'n_communities': 3}
-next: [8, 11, 22, 23, 30, 33, 39]
+next: [8, x, 22, y, 30, z, 39]
 """
